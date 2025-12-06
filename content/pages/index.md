@@ -3,7 +3,7 @@ title:
 slug: /
 sections:
   - type: GenericSection
-    title:
+    title: 
       text: Mamuna The Pregnant Virgin: The Rebirth of Africa
       color: text-dark
       type: TitleBlock
