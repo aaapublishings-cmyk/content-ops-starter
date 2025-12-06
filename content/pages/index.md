@@ -1,36 +1,38 @@
 ---
-title: Home
+title: 
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Mamuna The Pregnant Virgin: The Rebirth of Africa
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Dive into an unforgettable journey with Mamuna’s story and discover the wisdom within these pages!
+
+Now available anywhere books are sold!
+
+Order today using the link, on amazon, Walmart, and anywhere else books are sold!
     actions:
-      - label: Get started
+      - label: Click to Purchase
         altText: ''
-        url: /
+        url: https://www.paypal.com/ncp/payment/658UUT9UJXCJE
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Book Launch Event
         altText: ''
-        url: /
-        showIcon: true
+        url: https://www.jotform.com/app/mamuna_book/mamuna-the-pregnant-virgin-book-lau
+        showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
-        type: Link
+        type: Button
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
