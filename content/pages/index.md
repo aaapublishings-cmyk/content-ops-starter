@@ -34,7 +34,7 @@ Order today using the link, on amazon, Walmart, and anywhere else books are sold
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: https://github.com/aaapublishings-cmyk/content-ops-starter/blob/main/public/images/Black%20and%20Gray%20Minimal%20Photo%20Collage%20Instagram%20Post.png?raw=true
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -55,13 +55,13 @@ Order today using the link, on amazon, Walmart, and anywhere else books are sold
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Mamuna the Pregnant Virgin: The Rebirth of Africa
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Sign up with your email address to receive news and updates.
     items:
       - type: FeaturedItem
         title: 500k
@@ -685,12 +685,9 @@ Order today using the link, on amazon, Walmart, and anywhere else books are sold
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Sign up with your email address to receive news and updates.
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      We can't wait to hear from you! Contact us today to learn more and join the movement!
     media:
       fields:
         - name: name
